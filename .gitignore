@@ -1,6 +1,7 @@
 .vscode
 /build
 /octave
+.DS_Store
 
 [Bb][Uu][Ii][Ll][Dd]
 
